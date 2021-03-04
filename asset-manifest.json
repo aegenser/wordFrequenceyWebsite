@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wordFrequencyWebsite/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/wordFrequencyWebsite/static/js/main.2dff4343.chunk.js",
+    "main.js.map": "/wordFrequencyWebsite/static/js/main.2dff4343.chunk.js.map",
+    "runtime-main.js": "/wordFrequencyWebsite/static/js/runtime-main.a0cb8198.js",
+    "runtime-main.js.map": "/wordFrequencyWebsite/static/js/runtime-main.a0cb8198.js.map",
+    "static/js/2.2e2428a2.chunk.js": "/wordFrequencyWebsite/static/js/2.2e2428a2.chunk.js",
+    "static/js/2.2e2428a2.chunk.js.map": "/wordFrequencyWebsite/static/js/2.2e2428a2.chunk.js.map",
+    "static/js/3.95480ae9.chunk.js": "/wordFrequencyWebsite/static/js/3.95480ae9.chunk.js",
+    "static/js/3.95480ae9.chunk.js.map": "/wordFrequencyWebsite/static/js/3.95480ae9.chunk.js.map",
+    "index.html": "/wordFrequencyWebsite/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/wordFrequencyWebsite/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2e2428a2.chunk.js.LICENSE.txt": "/wordFrequencyWebsite/static/js/2.2e2428a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0cb8198.js",
+    "static/js/2.2e2428a2.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2dff4343.chunk.js"
+  ]
+}
